@@ -1,0 +1,8 @@
+.goodCSS {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 30rem;
+    align-items: center;
+    margin: auto;
+}
